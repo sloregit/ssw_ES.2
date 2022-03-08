@@ -18,7 +18,7 @@ for (let elem of cityElems) {
   elem.addEventListener('mouseleave', function () {
     this.style.backgroundColor = 'initial';
   });
-  ////
+  //// style.css contiene un'alternativa
 }
 
 // Funzione collegata ai bottoni
